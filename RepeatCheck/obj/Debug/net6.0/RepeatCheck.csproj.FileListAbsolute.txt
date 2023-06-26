@@ -1,0 +1,15 @@
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\RepeatCheck\bin\Debug\net6.0\RepeatCheck.exe
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\RepeatCheck\bin\Debug\net6.0\RepeatCheck.deps.json
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\RepeatCheck\bin\Debug\net6.0\RepeatCheck.runtimeconfig.json
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\RepeatCheck\bin\Debug\net6.0\RepeatCheck.dll
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\RepeatCheck\bin\Debug\net6.0\RepeatCheck.pdb
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\RepeatCheck\obj\Debug\net6.0\RepeatCheck.csproj.AssemblyReference.cache
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\RepeatCheck\obj\Debug\net6.0\RepeatCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\RepeatCheck\obj\Debug\net6.0\RepeatCheck.AssemblyInfoInputs.cache
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\RepeatCheck\obj\Debug\net6.0\RepeatCheck.AssemblyInfo.cs
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\RepeatCheck\obj\Debug\net6.0\RepeatCheck.csproj.CoreCompileInputs.cache
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\RepeatCheck\obj\Debug\net6.0\RepeatCheck.dll
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\RepeatCheck\obj\Debug\net6.0\refint\RepeatCheck.dll
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\RepeatCheck\obj\Debug\net6.0\RepeatCheck.pdb
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\RepeatCheck\obj\Debug\net6.0\RepeatCheck.genruntimeconfig.cache
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\RepeatCheck\obj\Debug\net6.0\ref\RepeatCheck.dll

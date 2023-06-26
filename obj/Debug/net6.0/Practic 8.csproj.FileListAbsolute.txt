@@ -1,0 +1,5 @@
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Practic 8\obj\Debug\net6.0\Practic 8.csproj.AssemblyReference.cache
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Practic 8\obj\Debug\net6.0\Practic 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Practic 8\obj\Debug\net6.0\Practic 8.AssemblyInfoInputs.cache
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Practic 8\obj\Debug\net6.0\Practic 8.AssemblyInfo.cs
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Practic 8\obj\Debug\net6.0\Practic 8.csproj.CoreCompileInputs.cache

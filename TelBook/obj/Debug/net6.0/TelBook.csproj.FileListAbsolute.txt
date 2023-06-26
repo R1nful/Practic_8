@@ -1,0 +1,15 @@
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\TelBook\bin\Debug\net6.0\TelBook.exe
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\TelBook\bin\Debug\net6.0\TelBook.deps.json
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\TelBook\bin\Debug\net6.0\TelBook.runtimeconfig.json
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\TelBook\bin\Debug\net6.0\TelBook.dll
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\TelBook\bin\Debug\net6.0\TelBook.pdb
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\TelBook\obj\Debug\net6.0\TelBook.csproj.AssemblyReference.cache
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\TelBook\obj\Debug\net6.0\TelBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\TelBook\obj\Debug\net6.0\TelBook.AssemblyInfoInputs.cache
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\TelBook\obj\Debug\net6.0\TelBook.AssemblyInfo.cs
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\TelBook\obj\Debug\net6.0\TelBook.csproj.CoreCompileInputs.cache
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\TelBook\obj\Debug\net6.0\TelBook.dll
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\TelBook\obj\Debug\net6.0\refint\TelBook.dll
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\TelBook\obj\Debug\net6.0\TelBook.pdb
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\TelBook\obj\Debug\net6.0\TelBook.genruntimeconfig.cache
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\TelBook\obj\Debug\net6.0\ref\TelBook.dll

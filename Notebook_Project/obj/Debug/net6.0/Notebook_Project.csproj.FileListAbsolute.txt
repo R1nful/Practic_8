@@ -1,0 +1,15 @@
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Notebook_Project\obj\Debug\net6.0\Notebook_Project.csproj.AssemblyReference.cache
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Notebook_Project\obj\Debug\net6.0\Notebook_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Notebook_Project\obj\Debug\net6.0\Notebook_Project.AssemblyInfoInputs.cache
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Notebook_Project\obj\Debug\net6.0\Notebook_Project.AssemblyInfo.cs
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Notebook_Project\obj\Debug\net6.0\Notebook_Project.csproj.CoreCompileInputs.cache
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Notebook_Project\bin\Debug\net6.0\Notebook_Project.exe
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Notebook_Project\bin\Debug\net6.0\Notebook_Project.deps.json
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Notebook_Project\bin\Debug\net6.0\Notebook_Project.runtimeconfig.json
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Notebook_Project\bin\Debug\net6.0\Notebook_Project.dll
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Notebook_Project\bin\Debug\net6.0\Notebook_Project.pdb
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Notebook_Project\obj\Debug\net6.0\Notebook_Project.dll
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Notebook_Project\obj\Debug\net6.0\refint\Notebook_Project.dll
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Notebook_Project\obj\Debug\net6.0\Notebook_Project.pdb
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Notebook_Project\obj\Debug\net6.0\Notebook_Project.genruntimeconfig.cache
+C:\Disk D\3 Coding\1 Project\1 Visual Studia\3 SkillBox\Notebook_Project\obj\Debug\net6.0\ref\Notebook_Project.dll

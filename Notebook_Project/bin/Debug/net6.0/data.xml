@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Notebook>
+  <Person name="Egor">
+    <Adress>
+      <Street>11</Street>
+      <HouseNumber>11</HouseNumber>
+      <FlatNumber>11</FlatNumber>
+    </Adress>
+    <Phones>
+      <MobilePhone>11</MobilePhone>
+      <FlatPhone>11</FlatPhone>
+    </Phones>
+  </Person>
+  <Person name="Misha">
+    <Adress>
+      <Street>22</Street>
+      <HouseNumber>22</HouseNumber>
+      <FlatNumber>22</FlatNumber>
+    </Adress>
+    <Phones>
+      <MobilePhone>22</MobilePhone>
+      <FlatPhone>22</FlatPhone>
+    </Phones>
+  </Person>
+</Notebook>
